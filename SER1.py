@@ -302,45 +302,26 @@ def banner():
 
 	print("""%s
 
- < Jihad EZULDIN >
+ < SERAJ ABDRHMAN >
  -------
     \
      \
                                    
-                                                                        dddddddd
-          JJJJJJJJJJJiiiihhhhhhh                                        d::::::d
-          J:::::::::i::::h:::::h                                        d::::::d
-          J:::::::::Jiiiih:::::h                                        d::::::d
-          JJ:::::::JJ    h:::::h                                        d:::::d 
-            J:::::Jiiiiiiih::::h hhhhh        aaaaaaaaaaaaa     ddddddddd:::::d 
-            J:::::Ji:::::ih::::hh:::::hhh     a::::::::::::a  dd::::::::::::::d 
-            J:::::J i::::ih::::::::::::::hh   aaaaaaaaa:::::ad::::::::::::::::d 
-            J:::::j i::::ih:::::::hhh::::::h           a::::d:::::::ddddd:::::d 
-            J:::::J i::::ih::::::h   h::::::h   aaaaaaa:::::d::::::d    d:::::d 
-JJJJJJJ     J:::::J i::::ih:::::h     h:::::h aa::::::::::::d:::::d     d:::::d 
-J:::::J     J:::::J i::::ih:::::h     h:::::ha::::aaaa::::::d:::::d     d:::::d 
-J::::::J   J::::::J i::::ih:::::h     h:::::a::::a    a:::::d:::::d     d:::::d 
-J:::::::JJJ:::::::Ji::::::h:::::h     h:::::a::::a    a:::::d::::::ddddd::::::dd
- JJ:::::::::::::JJ i::::::h:::::h     h:::::a:::::aaaa::::::ad:::::::::::::::::d
-   JJ:::::::::JJ   i::::::h:::::h     h:::::ha::::::::::aa:::ad:::::::::ddd::::d
-     JJJJJJJJJ     iiiiiiihhhhhhh     hhhhhhh aaaaaaaaaa  aaaa ddddddddd   ddddd
-                                                                                
-  
+                         SERAJO
 
 
 
 
 ╔══════════════════════════════════════════╗
 
-║ Creator  : JIHAD AZEIDIN          
+║ Creator  : سيرجو 
+║تم تعديلها بواسطه سراج
 
-║تم تعديلها بواسطه jihadﺎﻫ
-
-║ Facebook : https://www.facebook.com/alarareyes
+║ Facebook : https://www.facebook.com/noel.m.pena
 
 ║ Version  : 0.1                      
 
-║ FILENAME : J10                       
+║ FILENAME : SER1                     
 
 ╚══════════════════════════════════════════╝
 
